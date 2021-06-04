@@ -1,0 +1,30 @@
+.img14{
+    position:relative;
+}
+div.img-txt{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:20%;
+    font-size: 30px;
+    color:white;
+}
+.img-txt >a{
+    color:white;
+}
+.price{
+    margin-top:50px;
+    margin-left:10px;
+}
+.service-col4{
+    flex-basis:25%;
+    background:#fff3f3;
+    border-radius:10px;
+    margin-bottom:5px;
+    padding:20px 12px;
+    box-sizing:border-box;
+    transition:0.5s;
+    margin-left:50px;
+    margin-right:50px;
+}
